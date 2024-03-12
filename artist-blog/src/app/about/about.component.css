@@ -87,15 +87,7 @@ html, body {
     0 0 20px rgba(0, 255, 255, 0.5); /* Cyan shadow */
   }
   
-  footer {
-    position: relative; /* Change to relative positioning */
-    width: 100%;
-    text-align: center;
-    padding: 20px;
-    background-color: #ff99c9;
-    color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+
   
   @keyframes wave {
     0% {
